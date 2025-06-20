@@ -13,6 +13,13 @@
   <li>Menggunakan teknologi RFID untuk pengesahan pengguna.</li>
   <li>Sistem amaran untuk keselamatan dan pencegahan penyalahgunaan</li>
 </ul>
+<h3>Cara Penggunaan :</h3>
+  <ol>
+    <li>Parkir kereta di lot OKU yang disediakan.</li>
+    <li>Scan kad OKU pada pengesan RFID di lot tersebut.</li>
+    <li>Anda ada 5 minit untuk menyelesaikan scan – jika lewat, alarm akan berbunyi menandakan akses tidak dibenarkan.</li>
+    <li>Setelah selesai anda boleh masuk ke pusat beli-belah dengan selesa.</li>
+  </ol>
 <h3>Impak & Signifikan :</h3>
   <p align="justify">
     Impak inovasi kami kepada orang kurang upaya adalah dapat mempermudahkan urusan mereka dalam kehidupan seharian mereka. Selain itu, ia juga memberi kesedaran kepada orang awam serta menindas golongan-golongan yang mengambil kesempatan terhadap parkir OKU. Inovasi ini juga boleh memberi kesekufuan dan adil kepada golongan OKU untuk menjalani kehidupan seharian mereka tanpa sebarang gangguan daripada orang yang tidak bertauliah.
